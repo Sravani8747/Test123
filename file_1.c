@@ -15,5 +15,5 @@ int main() {
 //function added in branch1
 int func_add(int c, int d)
 { 
-	return a+b;
+	return c+d;
 }
