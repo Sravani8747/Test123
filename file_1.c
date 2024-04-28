@@ -12,6 +12,10 @@ int main() {
     printf("%d - %d = %d", number1, number2, sum);
     return 0;
 }
+int func_add(int c, int d)
+{ 
+  int a = c+d;
+	return a;
 //function added in branch1
 int func_add(int c, int d)
 { 
